@@ -4,5 +4,5 @@ I'm a developer who works mostly in Javascript. I build things, talk tech and wr
 
 ### Links
 
+- [Website](https://www.rafi.website/)
 - [Dev.to](https://dev.to/rafi993/)
-- [Website](https://rafi993.me/)
