@@ -1,6 +1,6 @@
-### Hello there 👋
+### Hi, I‘m Rafi 👋
 
-Thing builder, building things in Shopify and loves Star Trek
+I'm a thing builder, building things in Shopify and loves Star Trek
 
 ### Links
 
